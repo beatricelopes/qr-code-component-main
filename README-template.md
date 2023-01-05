@@ -38,6 +38,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+
 ### Built with
 
 - Semantic HTML5 markup
