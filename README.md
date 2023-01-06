@@ -15,7 +15,7 @@ Thanks for checking out this front-end coding challenge.
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
+  - [My goals](#my-goals)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -34,18 +34,14 @@ coming soon...
 - Solution URL: [not ready yet, coming soon (...)](https://your-solution-url.com)
 - Live Site URL: [working on it (...) ](https://your-live-site-url.com)
 
-## 🌻 My process
-We will talk about it when finished 
-
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - 
 
-### Continued development
-
-Working on it 
+### My goals
+♡ My next steps will be focus on my CSS+HTML skills and learn javascript+react
 
 
 ### Useful resources
