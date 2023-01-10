@@ -32,7 +32,7 @@ coming soon...
 ### Links
 
 - Solution URL: [not ready yet, coming soon (...)](https://your-solution-url.com)
-- Live Site URL: [working on it (...) ](https://your-live-site-url.com)
+- Live Site URL: [Here](https://qr-code-component-main-orcin-iota.vercel.app)
 
 ### Built with
 
