@@ -31,6 +31,9 @@ p{
 
 
 #container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     width: 20%;
     height: 60%;
     padding:5px;
