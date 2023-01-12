@@ -38,7 +38,7 @@ coming soon...
 
 - Semantic HTML5 markup
 - CSS custom properties
-- 
+- Bootstrap
 
 ### My goals
 ♡ My next steps will be focus on my CSS+HTML skills and learn javascript+react

@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color:hsl(212, 45%, 89%);
+    background-color: hsl(212, 45%, 89%);  
 }
 
 h1{
@@ -25,14 +25,14 @@ p{
     display: flex;
     align-items: center;
     float:none;
-    width:90%;
     border-radius: 10px;
+    width:90%;
     margin: 5%;
 }
 
 
 #container{
-    display: flex;
+    display: row;
     flex-direction: column;
     flex-wrap: wrap;
     width: 20%;
