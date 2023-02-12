@@ -67,3 +67,20 @@ p{
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
+ 
+@media screen and (max-width:940px) {
+   
+#card{
+    display: row;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 60%;
+    height: 60%;
+    padding:5px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+}
